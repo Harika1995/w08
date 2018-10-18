@@ -1,9 +1,9 @@
-I can't believe I got fired from the calendar factory. All I did was take a day off.
+AJAX stands for Asynchronous JavaScript and XML. 
 
-I'd tell you a chemistry joke but I know I wouldn't get a reaction.
+AJAX is a new technique for creating better, faster, 
+and more interactive web applications with the help 
+of XML, HTML, CSS, and Java Script.
 
-I wasn't originally going to get a brain transplant, but then I changed my mind.
+AJAX is a web browser technology independent of web server software.
 
-My math teacher called me average. How mean!
-
-I wanted to buy a neutrino, but had to settle for a used one.
+AJAX cannot work independently. It is used in combination with other technologies to create interactive webpages.
